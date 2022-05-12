@@ -1,0 +1,5 @@
+.kategori { margin:0px; padding:0px; list-style:none; }
+.kategori li a { display:block; padding:3px; margin:0px; color:#000; }
+.kategori li ul { display:none; margin:0px; padding:0px; list-style:none; }
+.kategori li ul a { color:rgb(70, 10, 6);}
+.kategori li:hover ul { display:block;}
